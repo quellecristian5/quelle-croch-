@@ -1,0 +1,8 @@
+{
+  "name": "Remix Maria Veronez - Ateliê de Crochê de Luxo",
+  "description": "Loja online oficial e vitrine de alta costura em crochê: bolsas estruturadas artesanais em fios nobres, clutches, videoaulas e peças sob medida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
